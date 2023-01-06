@@ -1,2 +1,2 @@
 # ElisendaGascon-Authentication
-Adding authentication and authorisation to aspnet core web applicationss
+Adding authentication and authorisation to aspnet core web applications
